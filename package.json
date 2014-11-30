@@ -1,0 +1,31 @@
+{
+  "name": "uvdom-bootstrap",
+  "version": "0.0.1",
+  "description": "Bootstrap 3 components built with uvdom",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gcanti/uvdom-bootstrap.git"
+  },
+  "author": "Giulio Canti <giulio.canti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcanti/uvdom-bootstrap/issues"
+  },
+  "homepage": "https://github.com/gcanti/uvdom-bootstrap",
+  "dependencies": {
+    "tcomb": "^0.3.4"
+  },
+  "devDependencies": {
+  },
+  "tags": [
+    "uvdom",
+    "bootstrap"
+  ],
+  "keywords": [
+    "uvdom",
+    "bootstrap"
+  ]
+}

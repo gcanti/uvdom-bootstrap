@@ -1,0 +1,7 @@
+.*
+*.log
+gulpfile.js
+CHANGELOG.md
+node_modules
+test
+dev
