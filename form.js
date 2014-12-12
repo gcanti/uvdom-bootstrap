@@ -1,5 +1,6 @@
 module.exports = {
   getAddon: require('./lib/getAddon'),
+  getAlert: require('./lib/getAlert'),
   getBreakpoints: require('./lib/getBreakpoints'),
   getButton: require('./lib/getButton'),
   getButtonGroup: require('./lib/getButtonGroup'),
@@ -16,5 +17,6 @@ module.exports = {
   getRadio: require('./lib/getRadio'),
   getRow: require('./lib/getRow'),
   getSelect: require('./lib/getSelect'),
+  getStatic: require('./lib/getStatic'),
   getTextbox: require('./lib/getTextbox')
 };
