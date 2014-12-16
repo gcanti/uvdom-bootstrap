@@ -1,6 +1,6 @@
 {
   "name": "uvdom-bootstrap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Bootstrap 3 components built with uvdom (optimized for React)",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "url": "https://github.com/gcanti/uvdom-bootstrap/issues"
   },
   "homepage": "https://github.com/gcanti/uvdom-bootstrap",
-  "peerDependencies": {
-    "tcomb": "^0.3.4"
+  "dependencies": {
   },
   "devDependencies": {
   },
