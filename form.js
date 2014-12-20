@@ -6,6 +6,7 @@ module.exports = {
   getButtonGroup: require('./lib/getButtonGroup'),
   getCheckbox: require('./lib/getCheckbox'),
   getCol: require('./lib/getCol'),
+  getErrorBlock: require('./lib/getErrorBlock'),
   getFieldset: require('./lib/getFieldset'),
   getFormGroup: require('./lib/getFormGroup'),
   getHelpBlock: require('./lib/getHelpBlock'),
