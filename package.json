@@ -1,6 +1,6 @@
 {
   "name": "uvdom-bootstrap",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Bootstrap 3 components built with uvdom",
   "main": "index.js",
   "scripts": {
