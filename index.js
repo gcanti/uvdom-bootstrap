@@ -6,6 +6,7 @@ module.exports = {
   getButtonGroup: require('./lib/getButtonGroup'),
   getCheckbox: require('./lib/getCheckbox'),
   getCol: require('./lib/getCol'),
+  getErrorBlock: require('./lib/getErrorBlock'),
   getFieldset: require('./lib/getFieldset'),
   getFormGroup: require('./lib/getFormGroup'),
   getHelpBlock: require('./lib/getHelpBlock'),
@@ -16,7 +17,5 @@ module.exports = {
   getOption: require('./lib/getOption'),
   getRadio: require('./lib/getRadio'),
   getRow: require('./lib/getRow'),
-  getSelect: require('./lib/getSelect'),
-  getStatic: require('./lib/getStatic'),
-  getTextbox: require('./lib/getTextbox')
+  getStatic: require('./lib/getStatic')
 };
